@@ -2,6 +2,13 @@
 How do I make an HTTP request in Javascript?
 
 # Introduction 
+JavaScript is a programming language that is primarily used to create interactive and dynamic web pages. It is a client-side scripting language, which means that it runs directly in the browser, rather than on a server. This allows for real-time updates, user input validation, and many other interactive features on web pages. JavaScript is also known as ECMAScript and is standardized by ECMAScript International.
+
+JavaScript code can be added to an HTML page by placing it inside of a <script> tag, and it can also be included as an external file by linking to it with the src attribute.
+
+JavaScript is also widely used outside of web development, for example, in the development of mobile apps with frameworks like React Native, desktop apps with Electron, and even for server-side development with Node.js.
+
+In summary, JavaScript is a versatile, high-level programming language that allows developers to create interactive and dynamic web pages, and it's also used in a wide variety of other applications as well.
 
 ## here we go
 There are several ways to make an HTTP request in JavaScript, but the most commonly used method is the XMLHttpRequest object, which is built into most web browsers. Here is an example of how to use the XMLHttpRequest object to make a GET request to a server:
