@@ -10,7 +10,7 @@ JavaScript is also widely used outside of web development, for example, in the d
 
 In summary, JavaScript is a versatile, high-level programming language that allows developers to create interactive and dynamic web pages, and it's also used in a wide variety of other applications as well.
 
-## here we go
+## Here we go
 There are several ways to make an HTTP request in JavaScript, but the most commonly used method is the XMLHttpRequest object, which is built into most web browsers. Here is an example of how to use the XMLHttpRequest object to make a GET request to a server:
 
 ```
